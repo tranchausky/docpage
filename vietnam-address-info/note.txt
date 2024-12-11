@@ -1,0 +1,63 @@
+1 Ha Noi
+821 Nghe An
+126 HCM
+129 Da Nang
+130 Son La
+132 Yen Bai
+134 Lang Son
+135 Hai Phong
+137 Tuyen Quang
+143 Quang Tri
+144 Bac Giang
+805 Hai Duong
+806 Can Tho
+807 Ha Nam
+808 Lao Cai
+811 Nam Dinh
+812 Binh Thuan
+816 Hung Yen
+818 Quang Binh
+819 Quang Ninh
+823 Dong Nai
+824 Tien Giang
+826 Binh Dinh
+827 Vinh Phuc
+830 Ha Giang
+831 Khanh Hoa
+833 An Giang
+834 Ba Ria Vung Tau
+835 Bac Kan
+836 Bac Lieu
+837 Bac Ninh
+838 Ben Tre
+839 Binh Duong
+840 Binh Phuoc
+841 Ca Mau
+842 Cao Bang
+843 Dak Lak
+844 Dak Nong
+845 Dien Bien
+846 Dong Thap
+847 Gia Lai
+848 Ha Tinh
+849 Hau Giang
+850 Hoa Binh
+851 Kien Giang
+852 Kon Tum
+853 lai Chau
+854 Lam Dong 
+855 Long An
+856 Ninh Binh
+857 Ninh Thuan 
+858 Phu Tho 
+859 Quang Nam
+860 Quang Ngai
+861 Soc Trang
+862 Tay Ninh
+863 Thai Binh
+864 Thai Nguyen
+865 Thanh Hoa
+866 - Thua Thien Hue
+867 - Tra Vinh
+868 - Vinh Long 
+869 - Phu Yen
